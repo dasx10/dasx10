@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dasx10/dasx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Evegen. I am a web developer.
 
-Here are some ideas to get you started:
+My favorite language
+[JavaScript](https://github.com/topics/javascript)
+[TypeScript](https://github.com/topics/typescript)
+[Php]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Confident and well versed in technologies such as HTML and CSS
+The main direction is the development of websites. Basically already on any ready-made technologies (Vue React Angular Svelte JQ ...etc)
+or Be (Express Koa).
+
+Sometimes interesting open source projects are considered or I take part in them myself.
+
+How to contact me.
+By mail [dasx10@gmail.com](mailto:dasx10@gmail.com)
+By [LD](https://www.linkedin.com/in/yevhenii-kleshchev-922434159/)
