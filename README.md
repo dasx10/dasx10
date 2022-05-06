@@ -5,7 +5,7 @@ My name is Evegen. I am a web developer.
 My favorite language
 [JavaScript](https://github.com/topics/javascript)
 [TypeScript](https://github.com/topics/typescript)
-[Php]
+Php
 
 Confident and well versed in technologies such as HTML and CSS
 The main direction is the development of websites. Basically already on any ready-made technologies (Vue React Angular Svelte JQ ...etc)
